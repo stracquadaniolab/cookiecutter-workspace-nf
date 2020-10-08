@@ -1,0 +1,14 @@
+{
+    "artifact_name": "my project",
+    "artifact_id": "project-{{ cookiecutter.artifact_name.lower().replace(' ', '-').replace('_','-') }}",
+    "artifact_org": "stracquadaniolab",
+    "artifact_author": "Giovanni Stracquadanio",
+    "artifact_email": "giovanni.stracquadanio@ed.ac.uk",
+    "artifact_description": "A short description of the project.",
+    "artifact_license": ["MIT", "BSD", "None"],
+    "artifact_workflow": "{{ cookiecutter.artifact_org}}/{{ cookiecutter.artifact_name.lower().replace(' ', '-').replace('_','-') }}-nf",
+    "artifact_s3": "wasabi://eu-central-1@s3.eu-central-1.wasabisys.com/stracquadaniolab-vault/",
+    "artifact_s3_key": "",
+    "artifact_s3_secret": ""
+}
+
