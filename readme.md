@@ -29,7 +29,7 @@ annotation files (e.g. genome GFF) or geneset GMT files.
 
 The `logs` directory contains the log of each pipeline run.
 
-The results directory contains the result of experiments. You should take some
+The `results` directory contains the result of experiments. You should take some
 time to organise it in a meaningful and consistent way.
 
 The readme.md file contains a description of the project and how the data and
