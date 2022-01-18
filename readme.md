@@ -1,5 +1,5 @@
 # A template for experiments workspace
-![](https://img.shields.io/badge/current_version-v0.1.0-blue)
+![](https://img.shields.io/badge/current_version-v0.1.1-blue)
 ![](https://github.com/stracquadaniolab/cookiecutter-workspace-nf/workflows/build/badge.svg)
 
 A directory structure to build a workspace for experiments.
